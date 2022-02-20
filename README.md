@@ -5,7 +5,7 @@ pretest pertemuan ke-dua
 
 ## Getting Started
 
-[]!(https://i.postimg.cc/d1t8TXsy/Screenshot-2022-02-20-120927.png)
+![](https://i.postimg.cc/d1t8TXsy/Screenshot-2022-02-20-120927.png)
 
 This project is a starting point for a Flutter application.
 
